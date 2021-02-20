@@ -1,0 +1,10 @@
+x y z r(nr*3-1) c(nc*3-1) nstart nend nr nc
+
+如不对试着交换 输入的r c参数
+
+/elec x y z 44 59 21 320 90 90
+/elecback x y z 44 59 21 320 90 90
+
+/elec x y z 11 14 1 21 90 90
+
+/setsign team
